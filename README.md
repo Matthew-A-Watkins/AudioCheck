@@ -15,3 +15,10 @@ This program checks your microphone input and it will see if the microphone goes
 5. click exit (MAKE SURE YOU DO NOT HAVE A PROGRAM RUNNING AS IT WILL LEAD TO THE THREAD STILL RUNNING AFTER PROGRAM IS EXITED REQURING YOU TO CLOSE YOUR TERMINAL WINDOW)
 6. ???
 7. more profit
+
+# other possible instructions 
+1. unzip the zipped file (wow) 
+2. then look for the exe file in the folder 
+3. run said exe file
+4. ???
+5. profit
