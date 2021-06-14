@@ -7,7 +7,7 @@ This program checks your microphone input and it will see if the microphone goes
 2. ???
 3. profit
 
-# actual instructiones
+# actual instructions
 1. run the .py file
 2. Move slider and click the desired output ( you can change it while the program is running
 3. click Start button and it will check your microphone every so often 
