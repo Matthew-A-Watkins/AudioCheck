@@ -3,6 +3,15 @@ This program checks your microphone input and it will see if the microphone goes
 
 
 # Instrunctions
-1. Install the 'AudioChecker' Folder 
-2. go through the folder and look for the 'AudioChecker.exe' File
-3. This is what you'll run You can create a shortcut to the program or do as you wish 
+1. run the .py file
+2. ???
+3. profit
+
+# actual instructiones
+1. run the .py file
+2. Move slider and click the desired output ( you can change it while the program is running
+3. click Start button and it will check your microphone every so often 
+4. Stop whenever to end the backend program
+5. click exit (MAKE SURE YOU DO NOT HAVE A PROGRAM RUNNING AS IT WILL LEAD TO THE THREAD STILL RUNNING AFTER PROGRAM IS EXITED REQURING YOU TO CLOSE YOUR TERMINAL WINDOW)
+6. ???
+7. more profit
