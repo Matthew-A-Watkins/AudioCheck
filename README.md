@@ -3,6 +3,6 @@ This program checks your microphone input and it will see if the microphone goes
 
 
 # Instrunctions
-1. Install the 'Audio Checker' Folder 
+1. Install the 'AudioChecker' Folder 
 2. go through the folder and look for the 'AudioChecker.exe' File
 3. This is what you'll run You can create a shortcut to the program or do as you wish 
